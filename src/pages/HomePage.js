@@ -7,7 +7,7 @@ import MissionSection from '../components/MissionSection';
 import WhyHardSection from '../components/WhyHardSection';
 import OfferSection from '../components/OfferSection';
 import TestimonialSection from '../components/TestimonialSection';
-import ContactSection from '../components/ContactForm';
+//import ContactSection from '../components/ContactForm';
 import Footer from '../components/Footer';
 
 function HomePage() {
