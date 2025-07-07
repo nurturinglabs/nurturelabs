@@ -1,7 +1,7 @@
 // HeroSection.js
 
 import React from 'react';
-import AnimatedText from './AnimatedText';
+//import AnimatedText from './AnimatedText';
 import studentsHero from '../assets/students-hero.png';
 
 function HeroSection() {
