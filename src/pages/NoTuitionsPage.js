@@ -15,7 +15,7 @@ export default function NoTuitionsPage() {
           Break free from the coaching race. Discover your real potential with mentorship that matters.
         </p>
         <a
-          href="https://calendly.com/u-jnms08/30min"
+          href="https://calendly.com/nurturinglabs/30min"
           target="_blank"
           rel="noopener noreferrer"
           className="bg-yellow-400 hover:bg-yellow-500 text-blue-900 font-semibold py-3 px-6 rounded-2xl shadow-md transition-all"
