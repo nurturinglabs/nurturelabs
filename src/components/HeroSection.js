@@ -22,7 +22,7 @@ function HeroSection() {
           </p>
 
           <div className="space-x-4 mt-4">
-            <a href="https://calendly.com/u-jnms08/30min" target="_blank" rel="noopener noreferrer">
+            <a href="https://calendly.com/nurturinglabs/30min" target="_blank" rel="noopener noreferrer">
               <button className="bg-gradient-to-r from-orange-400 to-pink-500 text-white px-6 py-3 rounded-xl shadow-lg hover:scale-105 transition">
                 📅 Book Free Consultation
               </button>
